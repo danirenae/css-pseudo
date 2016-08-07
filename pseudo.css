@@ -1,0 +1,15 @@
+li {
+  display: inline;
+  list-style-type: none;
+}
+
+span {
+  display: inline-block;
+  border: 1px;
+  margin: 25px;
+}
+
+article section {
+  border: 1px;
+}
+
